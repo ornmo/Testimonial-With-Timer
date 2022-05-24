@@ -1,7 +1,7 @@
-This project is made of background images that expand when clicked on. 
+This project is a testimonial box which contains the posters image, name and position
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- testimonials from customers on a timer before moving on to next testimonial
